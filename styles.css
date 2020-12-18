@@ -1,0 +1,35 @@
+html {
+  font-size: 62.5%;
+}
+
+#main {
+  font-size: 3.2rem;
+  font-family: tahoma;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+#tribute-info {
+  font-size: 1.8rem;
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+#img-caption {
+  display: block;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+#moreinf {
+  font-size: 1.6rem;
+}
+
